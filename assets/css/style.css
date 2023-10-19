@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: #ff3333;
+  color: #00509B;
   text-decoration: none;
 }
 
@@ -72,7 +72,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #ff2929;
+  background: #00509B;
   color: #fff;
 }
 
@@ -192,12 +192,12 @@ h6 {
 }
 
 #header .subscribe .subscribe-form input[type=submit]:hover {
-  background: #f50000;
+  background: #00509B;
 }
 
 #header .subscribe .error-message {
   display: none;
-  color: #ed3c0d;
+  color: #00509B;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -418,7 +418,7 @@ section {
 
 .contact .php-email-form .validate {
   display: none;
-  color: red;
+  color: #00509B;
   margin: 0 0 15px 0;
   font-weight: 400;
   font-size: 13px;
@@ -499,7 +499,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #ff3333;
+  background: #00509B;
 }
 
 @-webkit-keyframes animate-loading {
@@ -545,5 +545,5 @@ section {
 }
 
 #footer .credits a {
-  color: #ff3333;
+  color: #00509B;
 }
